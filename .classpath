@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="sources/tudu-core/src/main/java"/>
+	<classpathentry kind="src" path="sources/tudu-core/src/test/java"/>
+	<classpathentry kind="src" path="sources/tudu-presentation/tudu-dwr/src/main/java"/>
+	<classpathentry kind="src" path="sources/tudu-presentation/tudu-dwr/src/test/java"/>
+	<classpathentry kind="src" path="sources/tudu-presentation/tudu-gwt/src/main/java"/>
+	<classpathentry kind="src" path="sources/tudu-ws/tudu-axis-client/src/main/java"/>
+	<classpathentry kind="src" path="sources/tudu-ws/tudu-axis/src/main/java"/>
+	<classpathentry kind="src" path="sources/tudu-ws/tudu-springws/src/main/java"/>
+	<classpathentry kind="src" path="sources/tudu-ws/tudu-springws/src/test/java"/>
+	<classpathentry kind="src" path="sources/tudu-ws/tudu-xfire-jaxws2/src/main/java"/>
+	<classpathentry kind="src" path="sources/tudu-ws/tudu-xfire-jaxws2/src/test/java"/>
+	<classpathentry kind="src" path="sources/tudu-ws/tudu-xfire/src/main/java"/>
+	<classpathentry kind="lib" path="sources/tudu-core/target/tudu-core-2.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="sources/tudu-ws/tudu-xfire/target/classes"/>
+</classpath>
